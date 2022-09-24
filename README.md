@@ -33,5 +33,5 @@ In order to run this application the user needs to install the npm package.
 
 ## Link to Video Demo 
 
-[URL]()
-![Screenshot of Webpage Mockup]()
+[URL](https://drive.google.com/file/d/1JM9wI8Yarpmrtu6sy4i9brpJAmB1MpjL/view)
+![Screenshot of Webpage Mockup](./images/screenshotapp.png)
