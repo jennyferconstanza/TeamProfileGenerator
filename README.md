@@ -6,6 +6,7 @@ ISC License (ISC) [![License: ISC](https://img.shields.io/badge/License-ISC-blue
 ## Table of Contents
 * [Acceptance Criteria](#acceptance-criteria)
 * [Installation Instructions](#installation-instructions)
+* [Tests](#tests)
 
 ## Acceptance Criteria
 
@@ -30,6 +31,9 @@ THEN I exit the application, and the HTML is generated
 ```
 ## Installation Instructions
 In order to run this application the user needs to install the npm package.
+
+## Tests
+ Run `npx test` to run Jest, this will run tests on constructors.
 
 ## Link to Video Demo 
 
