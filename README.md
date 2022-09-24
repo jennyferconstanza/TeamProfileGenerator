@@ -33,7 +33,7 @@ THEN I exit the application, and the HTML is generated
 In order to run this application the user needs to install the npm package.
 
 ## Tests
- Run `npx test` to run Jest, this will run tests on constructors.
+ Run `npx jest` to run Jest, this will run tests on constructors.
 
 ## Link to Video Demo 
 
